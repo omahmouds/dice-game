@@ -1,0 +1,27 @@
+#container{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+button{
+    font-size: 1.5rem;
+    padding: 10px 15px;
+    background-color: rgb(158, 87, 225);
+    border-radius: 10px;
+    border: none;
+    color:white;
+    font-weight: bold;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(103, 11, 189);
+}
+button:active{
+    background-color: rgb(103, 11, 189);
+}
+input{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+}
